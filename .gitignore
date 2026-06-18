@@ -1,0 +1,9 @@
+.claude/
+__pycache__/
+build/
+dist/
+.venv/
+*.pyc
+*.pyo
+*.log
+*.tmp
